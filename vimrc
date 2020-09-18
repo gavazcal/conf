@@ -45,7 +45,7 @@ set scrolloff=2
 
 " Fix trailing whitespace so they are periods
 set list
-set listchars=eol: ,tab:\|\ ,trail:.
+set lcs=eol: ,tab:\|\ ,trail:.
 
 " Make non text more visible
 highlight NonText guifg=#4a4a59 guibg=#4a4a59
